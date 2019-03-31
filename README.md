@@ -1,4 +1,12 @@
-# LiveView
+# Phoenix LiveView PoC
+
+A simple proof of concept for real-time server-side rendering with Phoenix LiveView.
+
+<p align="center">
+  <a href="https://phoenixliveviewtime.herokuapp.com/">
+    <img alt="Phoenix LiveView" src="https://raw.githubusercontent.com/gabrielgiordan/phoenix-live-view-time/master/preview.gif">
+  </a>
+</p>
 
 To start your Phoenix server:
 
@@ -8,13 +16,3 @@ To start your Phoenix server:
   * Start Phoenix endpoint with `mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-  * Official website: http://www.phoenixframework.org/
-  * Guides: https://hexdocs.pm/phoenix/overview.html
-  * Docs: https://hexdocs.pm/phoenix
-  * Mailing list: http://groups.google.com/group/phoenix-talk
-  * Source: https://github.com/phoenixframework/phoenix

@@ -81,7 +81,7 @@ select {
   display: block;
 }
 .phx-logo img {
-  width: auto;
+  width: 40rem;
   display: block;
 }
 
@@ -131,4 +131,8 @@ header nav a {
     flex-basis: 527px;
     margin: 2rem 1rem;
   }
+}
+
+footer.container a, footer.container small {
+  color: #a7a7a7;
 }
